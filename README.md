@@ -21,7 +21,7 @@ Port Checker is a simple GUI-based tool written in Python that helps you verify 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/port-checker.git
+https://github.com/pradipwaghela/check_port.git
 ```
 
 2. Navigate to project directory:
