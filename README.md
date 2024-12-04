@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 Run directly with Python:
 ```bash
-python check_port_gui.py
+python check_port.py
 ```
 
 ### Building an Executable
@@ -58,7 +58,7 @@ pip install pyinstaller
 
 2. Generate executable:
 ```bash
-pyinstaller --onefile --noconsole check_port_gui.py
+pyinstaller --onefile --noconsole check_port.py
 ```
 
 3. Executable will be in the `dist` directory.
